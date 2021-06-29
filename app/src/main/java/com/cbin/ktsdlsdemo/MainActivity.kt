@@ -1,4 +1,4 @@
-package com.cbin.ktdoemo
+package com.cbin.ktsdlsdemo
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.cbin.ktdoemo.databinding.ActivityMainBinding
+import com.cbin.ktsdlsdemo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
